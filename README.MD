@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 Overviews
 
 This repository contains a **complete implementation of Fast R-CNN** from scratch, demonstrating the revolutionary improvements over traditional R-CNN. Built for the Tiny Object Detection dataset, this implementation showcases all key architectural innovations that made Fast R-CNN a breakthrough in computer vision.
 
